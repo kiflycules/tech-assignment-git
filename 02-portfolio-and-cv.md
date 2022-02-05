@@ -22,3 +22,7 @@ jangan lupa untuk mendokumentasikannya menggunakan commit dengan pesan
 11. unggah Git Repository tersebut kedalam GitHub
 
 <img src="01-pic-cv-port.png" alt="ss jawabam pertma" height= 600px />
+<img src="02-pic-cv-port.png" alt="ss jawabam 2" height= 600px />
+<img src="03-pic-cv-port.png" alt="ss jawabam 3" height= 600px />
+<img src="04-pic-cv-port.png" alt="ss jawabam 4" height= 600px />
+<img src="05-pic-cv-port.png" alt="ss jawabam 5" height= 600px />
