@@ -28,5 +28,7 @@
 14. Check out your commits using git log
  > git log
 
-<img src="01-pic.png" alt="ss jawabam pertma"/>
-<img src="02-pic.png" alt="ss jawabam pertma"/>
+link screenshot https://drive.google.com/drive/folders/1Dpm40bEpaOcyVoOpYChH__ubyk2p3WAF
+
+<img src="01-pic.png" alt="ss jawabam pertma" height= 600px/>
+<img src="02-pic.png" alt="ss jawabam pertma" height= 600x/>
