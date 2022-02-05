@@ -24,15 +24,23 @@
  >git commit -m "Inisialisasi CV"
 7. tambahkan 3 perusahaan yang akan kamu lamar, dan setiap menuliskan 1 nama perusahaan kamu harus melakukan dokumentasi menggunakan commit
  >nano add cv.txt
+
  buka lapak
  >git add .
+
  >git commit -m "tambah perusahaan pertama"
+
  >nano add cv.txt
+
  shopee
  >git add .
+ 
  >git commit -m "tambah perusahaan kedua"
+ 
  >nano add cv.txt
+ 
  apple
+ 
  >git add .
  >git commit -m "tambah perusahaan ketiga"
  >cat cv.txt
@@ -45,6 +53,7 @@ Halo perkenalkan aku halaman utama
 jangan lupa untuk mendokumentasikannya menggunakan commit dengan pesan
 "update master pertama"
  >nano README.md
+ 
  Ini adalah update pertama pada branch master
  >git add README.md
  >git commit -m "update master pertama"
@@ -54,8 +63,12 @@ jangan lupa untuk mendokumentasikannya menggunakan commit dengan pesan
 
 11. unggah Git Repository tersebut kedalam GitHub
  > git remote add origin https://github.com/kiflycules/web-assignment-git-GitHub.git
+
 > git push origin master
+
 >git log --graph
+
+
 
 link screenshot https://drive.google.com/drive/folders/1a_s27n4tEzay_v8epo5U07-W6RkD9RE_
 
