@@ -43,7 +43,17 @@
  
  >git add .
  >git commit -m "tambah perusahaan ketiga"
+ 
  >cat cv.txt
+
+ Ini adalah file CV
+
+ buka lapak
+ 
+ shopee
+ 
+ apple
+
 8. kembali ke branch master
  >git checkout master
 9. ubah file README.md menjadi
