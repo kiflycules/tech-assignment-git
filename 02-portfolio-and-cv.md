@@ -21,4 +21,4 @@ jangan lupa untuk mendokumentasikannya menggunakan commit dengan pesan
 10. gabungkan branch cv kedalam branch master menggunakan perintah git merge
 11. unggah Git Repository tersebut kedalam GitHub
 
-<img src="01-pic-cv-port.png" alt="ss jawabam pertma"/>
+<img src="01-pic-cv-port.png" alt="ss jawabam pertma" height= 600px />
